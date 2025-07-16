@@ -1,6 +1,6 @@
 BIP:        XXXX
 
-Title:      On‑Chain Recording of Average Transaction Fee per Block
+Title:     ** On‑Chain Recording of Average Transaction Fee per Block**
 
 Author:     Daniel Ames (danamesuk@gmail.com)
 
