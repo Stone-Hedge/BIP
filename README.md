@@ -1,8 +1,13 @@
 BIP:        XXXX
+
 Title:      On‑Chain Recording of Average Transaction Fee per Block
+
 Author:     Daniel Ames (danamesuk@gmail.com)
+
 Status:     Draft
+
 Type:       Standards Track
+
 Created:    2025‑07‑16
 
 ## Abstract
